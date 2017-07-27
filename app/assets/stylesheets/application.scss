@@ -86,15 +86,15 @@
 
  .button {
  	outline: none;
- 	background: #222222;
+ 	background: #d6dce0;
  	border: 2px solid #d6dce0;
  	padding: .5em 1.5em;
  	border-radius: 1.5em;
  	&:hover {
- 		border: 1px solid #33acb7;
+ 		border: 1px solid #ff0022;
  		color: #ff0022;
  		a {
- 			color: #00ff00 !important;
+ 			color: #ff0022 !important;
  		}
  	}
  }
